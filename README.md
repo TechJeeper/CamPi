@@ -2,14 +2,14 @@
 
 CamPi is a WiFi camera controller that uses a Raspberry Pi.  
 
-![alt text](https://github.com/TechJeeper/CamPi/blob/06448bcaf05bdaf52368d965974d110b10606ec7/Screenshot_20211114-144331.png)
+![CamPi Screenshot](https://github.com/TechJeeper/CamPi/blob/8275c4382609739b647c1e1d99500a5f92b95822/CamPi_Screenshot.png)
 
 ## Hardware
 CamPi can be ran on pretty minimal hardware.  For my project I am using a Pi Zero W 2 with a SugarPi power hat. 
 
 USB OTG cable that fits your camera and the USB port on the Pi
 
-![alt text](https://github.com/TechJeeper/CamPi/blob/06448bcaf05bdaf52368d965974d110b10606ec7/PXL_20211116_203207215.jpg)
+![CamPi Hardware](https://github.com/TechJeeper/CamPi/blob/8275c4382609739b647c1e1d99500a5f92b95822/CamPi.jpg)
 
 ## Installation
 
